@@ -7,3 +7,6 @@ Utilizing:
   3. Bwapp
   4. Dot-Slash Method
   5. Brute force injection login
+  6. Social Engineering
+  7. BeEF
+  8. Stored Cross Site Scripting (XSS)
